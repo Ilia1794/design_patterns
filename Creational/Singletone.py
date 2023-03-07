@@ -19,8 +19,6 @@ class A:
 		self.d = []
 
 
-
-
 if __name__=="__main__":
 	s = Singleton()
 	print(s)
